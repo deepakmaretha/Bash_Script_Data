@@ -111,7 +111,7 @@ figlet -t -f starwars Webkorps| lolcat
 echo -e "				\033[1mWebkorps Services Pvt Ltd"
 echo -e "		      \033[1m--------------------------------------------"
 echo -e "			  \033[1mTerminal Created By - Deepak Maretha"
-
+echo 
 
 complete -C /usr/bin/terraform terraform
 
